@@ -1,2 +1,7 @@
 # Citibike
-tableau hw
+Citibike has seen some success in the past, but would like to expand and grow the program. The collection of data provided has some changes from year to year. Some years of data may be considered irrelevlant and may skew input as society has changed since the data collection. Most recent data is better, but 2020 pandemic can skew results too. It was a unique year and  NYC was on lockdown. 
+My analysis is on 2021 data which isn't enough to see trends. However, given limitations of a free account and volume of data, I chose only one year. 
+Initially the data seemed fairly decent until I discovered January data reflected a million plus rides. That is clearly inaccurate based on articles and website information regarding Citibike. 
+Surprisely, income and gender doesn't play a role in ridership. However, the scale in Tableau (37,200 to 460,00) is a pretty wide gap so this may be misleading. Based on research about Citibike it seems locations and community welcomeness is making more of an impact. 
+Rides increase in the spring and summer and fall back tremendously in the winter. That makes sense; it is cold in NYC an NJ in the winter. Rides peak in the middle of the month, drop off towards the end, then do a slow climb back the first of the month. I didn't find exact reasons for this. However, I suspect it is because most people are pressed for time in the beginning and end of the month.
+Overall, I think Citibike can continue success by focusing on location (is it near parks, attractions, prime locations) and finding ways to get the community to welcome them. Better data is also necessary too.
